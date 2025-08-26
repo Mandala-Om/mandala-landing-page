@@ -1,0 +1,9 @@
+mandala-landing-page/
+ ├─ package.json
+ ├─ next.config.js
+ ├─ tailwind.config.js
+ ├─ postcss.config.js
+ ├─ app/
+ │   └─ page.jsx
+ └─ styles/
+     └─ globals.css
